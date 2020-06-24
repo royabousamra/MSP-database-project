@@ -1,4 +1,4 @@
-# Hospital Database (SQL) Project
+# Medical Service Providers Database (SQL) Project
 
 ## Tables
 MSP(MName, MDescription)  
